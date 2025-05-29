@@ -10,7 +10,7 @@ Privacy-policy
 <body>
     <h1>Privacy Policy for This Body Temperature</h1>
     <p><strong>Effective Date:</strong> 26, Nov. 2024</p>
-    <p>Thank you for using <em>Watch Face</em>, a watch face developed by [Hiba Alzahabi] for wear OS. This privacy policy explains how we collect, use, and protect your personal information when you use our app. We are committed to respecting and protecting your privacy.</p>
+    <p>Thank you for using <em>Body Temperature</em>, an app developed by [Hiba Alzahabi] for wear OS. This privacy policy explains how we collect, use, and protect your personal information when you use our app. We are committed to respecting and protecting your privacy.</p>
    
 
    
@@ -27,7 +27,7 @@ Privacy-policy
     <p>We do not collect any personal data, so there are no specific security measures needed for storing or processing data. Since no personal information is handled, there is no risk of exposure.</p>
 
   <h2>5. Children’s Privacy</h2>
-    <p><em>This Watch Face</em> does not target children under the age of 13, nor do we knowingly collect personal information from children. If we become aware that we have inadvertently collected personal information from a child under the age of 13, we will take steps to delete that information as soon as possible.</p>
+    <p><em>Body Temperature</em> does not target children under the age of 13, nor do we knowingly collect personal information from children. If we become aware that we have inadvertently collected personal information from a child under the age of 13, we will take steps to delete that information as soon as possible.</p>
 
    <h2>6. Changes to this Privacy Policy</h2>
     <p>We may update this privacy policy from time to time. When we do, we will update the "Effective Date" at the top of this policy. Please review this policy periodically to stay informed about how we protect your information.</p>
