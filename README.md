@@ -21,7 +21,7 @@ Privacy-policy
     <p>We do not share any personal data with third parties. Since the app does not collect any personal information, there is no data to share.</p>
 
    <h2>3. Permissions</h2>
-    <p>This app does not request any permissions that would access sensitive data such as location, contacts, camera, or microphone. It simply operates as a watch face for your wearable device.</p>
+    <p>This app does not request any permissions that would access sensitive data such as location, contacts, camera, or microphone. It simply operates as a Body Temperature app for your wearable device.</p>
 
    <h2>4. Data Security</h2>
     <p>We do not collect any personal data, so there are no specific security measures needed for storing or processing data. Since no personal information is handled, there is no risk of exposure.</p>
