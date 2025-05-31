@@ -10,18 +10,33 @@ Privacy-policy
 <body>
     <h1>Privacy Policy for This Body Temperature</h1>
     <p><strong>Effective Date:</strong> 26, Nov. 2024</p>
-    <p>Thank you for using <em>Body Temperature</em>, an app developed by [Hiba Alzahabi] for wear OS. This privacy policy explains how we collect, use, and protect your personal information when you use our app. We are committed to respecting and protecting your privacy.</p>
+    <p>Thank you for using <em>Body Temperature</em>, a Wear OS watch application designed to display real-time skin/body temperature data using supported smartwatch sensors. Your privacy is important to us, and we are committed to protecting your personal and health-related information..</p>
    
 
    
   <h2>1. Information Collection and Use</h2>
-    <p><em>This Body Temperature</em> does not collect any personal information, nor does it use any third-party services, advertisements, or analytics that would collect or process your data.</p> 
+    <p><em>This app may access the following data locally on your device:
+
+Body/Skin Temperature (from built-in watch sensors)
+
+We do not collect, store, transmit, or share any personal or health-related data to our servers or any third parties. All sensor data remains on your watch and is used only to display temperature in real time.
+
+</p> 
 
   <h2>2. Data Sharing and Disclosure</h2>
-    <p>We do not share any personal data with third parties. Since the app does not collect any personal information, there is no data to share.</p>
+    <p> We do not share your data with any third parties. The app does not use advertising networks, analytics services, or cloud-based features.
+    Since we do not collect or transmit data, no server-side storage is involved. However, we ensure that the app uses system permissions responsibly and respects all user privacy settings.</p>
 
    <h2>3. Permissions</h2>
-    <p>This app does not request any permissions that would access sensitive data such as location, contacts, camera, or microphone. It simply operates as a Body Temperature app for your wearable device.</p>
+    <p>The app requests access only to:
+
+Body Sensors – used exclusively for reading temperature from your smartwatch.
+
+We do not access any other sensitive data like location, contacts, or microphone.
+
+
+
+</p>
 
    <h2>4. Data Security</h2>
     <p>We do not collect any personal data, so there are no specific security measures needed for storing or processing data. Since no personal information is handled, there is no risk of exposure.</p>
