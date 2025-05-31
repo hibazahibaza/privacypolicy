@@ -47,6 +47,15 @@ We do not access any other sensitive data like location, contacts, or microphone
    <h2>6. Changes to this Privacy Policy</h2>
     <p>We may update this privacy policy from time to time. When we do, we will update the "Effective Date" at the top of this policy. Please review this policy periodically to stay informed about how we protect your information.</p>
 
+   <h2>7. Health Disclaimer</h2>
+<p>The <em>Body Temperature</em>  app is not a medical device and should not be used for medical diagnosis, treatment, or decision-making.
+
+The temperature readings provided are based on the smartwatch’s skin temperature sensor and may vary depending on device model, fit, environmental factors, and skin condition. These readings are intended for general wellness and informational purposes only.
+
+You should not rely solely on the app for any health or safety decisions. If you experience symptoms or concerns about your health, always consult a qualified healthcare provider.
+
+We are not responsible for any actions taken based on the information provided by this app.</p>
+
    <h2>7. Contact Us</h2>
     <p>If you have any questions or concerns about this privacy policy or our app, please feel free to contact us at:  
     <strong>hibazawork@gmail.com</strong></p>
