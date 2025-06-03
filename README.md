@@ -5,7 +5,7 @@ Privacy-policy
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Privacy Policy - Skin Temperature developed by [Hiba Alzahabi]
+    Privacy Policy - Skin Temperature Tracker developed by [Hiba Alzahabi]
 </head>
 <body>
     <h1>Privacy Policy for Skin Temperature Tracker</h1>
