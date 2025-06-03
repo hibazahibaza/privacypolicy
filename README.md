@@ -5,12 +5,12 @@ Privacy-policy
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Privacy Policy - Body Temperature developed by [Hiba Alzahabi]
+    Privacy Policy - Skin Temperature developed by [Hiba Alzahabi]
 </head>
 <body>
-    <h1>Privacy Policy for This Body Temperature</h1>
+    <h1>Privacy Policy for This Skin Temperature</h1>
     <p><strong>Effective Date:</strong> 26, Nov. 2024</p>
-    <p>Thank you for using <em>Body Temperature</em>, a Wear OS watch application designed to display real-time skin/body temperature data using supported smartwatch sensors. Your privacy is important to us, and we are committed to protecting your personal and health-related information..</p>
+    <p>Thank you for using <em>Skin Temperature</em>, a Wear OS watch application designed to display real-time skin/body temperature data using supported smartwatch sensors. Your privacy is important to us, and we are committed to protecting your personal and health-related information..</p>
    
 
    
@@ -48,7 +48,7 @@ We do not access any other sensitive data like location, contacts, or microphone
     <p>We may update this privacy policy from time to time. When we do, we will update the "Effective Date" at the top of this policy. Please review this policy periodically to stay informed about how we protect your information.</p>
 
    <h2>7. Health Disclaimer</h2>
-<p>The <em>Body Temperature</em>  app is not a medical device and should not be used for medical diagnosis, treatment, or decision-making.
+<p>The <em>Skin Temperature</em>  app is not a medical device and should not be used for medical diagnosis, treatment, or decision-making.
 
 The temperature readings provided are based on the smartwatch’s skin temperature sensor and may vary depending on device model, fit, environmental factors, and skin condition. These readings are intended for general wellness and informational purposes only.
 
