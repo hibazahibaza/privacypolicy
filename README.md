@@ -9,7 +9,7 @@ Privacy-policy
 </head>
 <body>
     <h1>Privacy Policy for Skin Temperature Tracker</h1>
-    <p><strong>Effective Date:</strong> 26, Nov. 2024</p>
+    <p><strong>Effective Date:</strong> 04, jun. 2025</p>
     <p>Thank you for using <em>Skin Temperature Tracker</em>, a Wear OS watch application designed to display real-time skin/body temperature data using supported smartwatch sensors. Your privacy is important to us, and we are committed to protecting your personal and health-related information..</p>
    
 
